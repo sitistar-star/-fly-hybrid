@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "installed": {
+    "duckduckgo-search": {
+      "source": "official",
+      "identifier": "official/research\\duckduckgo-search",
+      "trust_level": "builtin",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:dc0a587fb6f7dcb5",
+      "install_path": "duckduckgo-search",
+      "files": [
+        "SKILL.md",
+        "scripts\\duckduckgo.sh"
+      ],
+      "metadata": {},
+      "installed_at": "2026-05-20T20:14:15.638299+00:00",
+      "updated_at": "2026-05-20T20:14:15.638299+00:00"
+    },
+    "concept-diagrams": {
+      "source": "official",
+      "identifier": "official/creative\\concept-diagrams",
+      "trust_level": "builtin",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:cee7950f88d2a044",
+      "install_path": "concept-diagrams",
+      "files": [
+        "SKILL.md",
+        "examples\\apartment-floor-plan-conversion.md",
+        "examples\\automated-password-reset-flow.md",
+        "examples\\autonomous-llm-research-agent-flow.md",
+        "examples\\banana-journey-tree-to-smoothie.md",
+        "examples\\commercial-aircraft-structure.md",
+        "examples\\cpu-ooo-microarchitecture.md",
+        "examples\\electricity-grid-flow.md",
+        "examples\\feature-film-production-pipeline.md",
+        "examples\\hospital-emergency-department-flow.md",
+        "examples\\ml-benchmark-grouped-bar-chart.md",
+        "examples\\place-order-uml-sequence.md",
+        "examples\\smart-city-infrastructure.md",
+        "examples\\smartphone-layer-anatomy.md",
+        "examples\\sn2-reaction-mechanism.md",
+        "examples\\wind-turbine-structure.md",
+        "references\\dashboard-patterns.md",
+        "references\\infrastructure-patterns.md",
+        "references\\physical-shape-cookbook.md",
+        "templates\\template.html"
+      ],
+      "metadata": {},
+      "installed_at": "2026-05-20T20:14:24.514999+00:00",
+      "updated_at": "2026-05-20T20:14:24.514999+00:00"
+    }
+  }
+}

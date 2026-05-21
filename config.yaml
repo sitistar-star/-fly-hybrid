@@ -1,0 +1,17 @@
+model:
+  default: deepseek/deepseek-v4-flash
+  provider: openrouter
+terminal:
+  backend: local
+  timeout: 180
+display:
+  compact: true
+  show_reasoning: false
+approvals:
+  mode: off
+platforms:
+  api_server:
+    enabled: true
+    extra:
+      host: "0.0.0.0"
+      port: 8642
